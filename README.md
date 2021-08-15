@@ -1,6 +1,5 @@
 # challenge-17
-
-CMS-Blog Site 
+REGEX Tutorial 
 ### Table of Contents
 - [Description](#description)
 - [Introduction](#introduction)
