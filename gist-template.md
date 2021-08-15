@@ -76,7 +76,13 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Look-ahead and Look-behind
 
-- 
+- Positive Look-Ahead: In this type the regex engine searches for a particular element which may be a character or characters or a group after the item matched. If that particular element is present then the regex declares the match as a match otherwise it simply rejects that match. 
+
+- Negative Look- Ahead: In this type of lookahead the regex engine searches for a particular element which may be a character or characters or a group after the item matched. If that particular element is not present then the regex declares the match as a match otherwise it simply rejects that match. 
+
+- Positive Look- Behind: Lookbehind has the same effect, but works backwards. It tells the regex engine to temporarily step backwards in the string, to check if the text inside the lookbehind can be matched there.
+
+- Negative Look- Behind: The negative lookahead construct is the pair of parentheses, with the opening parenthesis followed by a question mark and an exclamation point. Inside the lookahead, we have the trivial regex u. Positive lookahead works just the same.
 
 ## Author
 
