@@ -86,4 +86,5 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-GitHub 
+<a href="https://github.com/torigonzales/challenge-17">GitHub Repo</a>
+
