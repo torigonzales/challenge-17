@@ -52,9 +52,11 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Flags
 
-- 
+- The flag s means dot all. ... By default, the dot character in a regular expression matches everything, but newline characters. To get it to match newline characters as well, we are given the s flag.
 
 ### Grouping and Capturing
+
+- They capture the text matched by the regex inside them into a numbered group that can be reused with a numbered backreference. They allow you to apply regex operators to the entire grouped regex.
 
 ### Bracket Expressions
 
